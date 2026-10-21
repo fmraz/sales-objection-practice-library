@@ -8,9 +8,9 @@ Licensed under [CC BY 4.0](LICENSE): use, adapt and share freely, with attributi
 
 | Area | Count |
 |---|---|
-| Insurance | 9 |
+| Insurance | 10 |
 | B2B sales | 10 |
-| Contact centre | 11 |
+| Contact centre | 10 |
 
 Browse the full lists: [English](scenarios/INDEX.en.md) | [Čeština](scenarios/INDEX.cs.md).
 
